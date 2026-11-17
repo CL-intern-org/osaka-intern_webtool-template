@@ -1,6 +1,6 @@
 # Web ツール開発ワークショップのテンプレート
 
-[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/haruki-cl/webtool-template)
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/CL-intern-org/osaka-intern_webtool-template)
 
 ## 中身
 
