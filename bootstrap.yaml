@@ -6,7 +6,7 @@ services:
   shell:
     image: webtool
     build:
-      context: https://github.com/haruki-cl/webtool-template.git
+      context: https://github.com/CL-intern-org/osaka-intern_webtool-template.git
     volumes:
       - .:/work
       - home:/home/node
